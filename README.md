@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  Here are some of my past projects. Thanks for having a look!
+  Here are my academic projects. Thanks for having a look!
 </p>
 
 ## 🎵 Master in Sound & Music Computing (UPF-Barcelona)
