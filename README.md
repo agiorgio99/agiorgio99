@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/agiorgio99.png" alt="Antonello Giorgio" width="150" style="border-radius: 50%;"/>
   
   <h1>Antonello Giorgio</h1>
   
