@@ -6,7 +6,6 @@
     <strong>AI Engineer</strong> specializing in <strong>Sound and Music Computing</strong>.<br>
     Focused on Artificial Intelligence, Machine Learning, and Audio Technologies.
   </p>
-
   <p>
     <a href="https://www.linkedin.com/in/antonello-giorgio-165796228" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -27,6 +26,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Bach Polyphonic Transformer](https://github.com/upf-smc-genai-music/polyphonic-transformer-for-bach-chorales-zoda)** | A multi-track generative model for Bach Chorales using the MMM representation. Adapts GPT-2 to compose 4-part SATB harmony through track-concatenated symbolic sequences, with note-density conditioning and sequential voice generation. | `Symbolic Music Gen.` |
+| **[VocalTechTransfer](https://github.com/agiorgio99/vocaltechtransfer)** | Exploration of vocal technique transfer in EnCodec latent space using the GTSinger dataset. Investigates whether latent interpolation between paired recordings can convincingly transfer singing styles such as Vibrato, Breathy, and Glissando. | `Gen. Audio Control` |
+| **[Monteverdi's Madrigals Analysis](https://github.com/CallMeRafaelMP/Monteverdi-s-Sprezzatura-Analysis)** | Computational analysis of Monteverdi's nine madrigal books, tracking the shift from Renaissance polyphony to early Baroque monody. Quantifies dissonance vocabulary, Basso Continuo evolution, and Stile Concitato across the two practices via MusicXML processing. | `Computational Musicology` |
 | **[DSP for Sound & Music](https://github.com/agiorgio99/DSP_for_Sound_and_Music)** | 9 assignments covering spectral processing, audio transformation, and synthesis technologies, plus a final project. | `DSP` |
 | **[ML for Sound & Music](https://github.com/agiorgio99/ML_for_Sound_and_Music)** | 8 Deep Learning assignments focusing on audio classification and generative audio models. | `ML` |
 | **[AI Reproducibility in Research](https://github.com/agiorgio99/MERE_Project)** | Research Method paper and experiment notebook focused on AI reproducibility in research. | `Meta Research` |
@@ -36,7 +38,9 @@
 ## 🤖 MSc in AI & Robotics (Sapienza-Rome)
 
 ### 🏆 Master Thesis
-> **[LLM-Powered Emotion Recognition from Music-Evoked EEG Signals](https://github.com/agiorgio99/LLM_Powered_Emotion_Recognition_from_Music_Evoked_EEG_Signals)** > Proposed a novel dual-branch architecture combining **Large Language Models (GPT-2, LLaMA)** and **Dynamic Graph CNNs**. Implemented a self-supervised masked reconstruction task with LoRA fine-tuning, achieving State-of-the-Art performance on the DEAP dataset.
+
+> **[LLM-Powered Emotion Recognition from Music-Evoked EEG Signals](https://github.com/agiorgio99/LLM_Powered_Emotion_Recognition_from_Music_Evoked_EEG_Signals)**
+> Proposed a novel dual-branch architecture combining **Large Language Models (GPT-2, LLaMA)** and **Dynamic Graph CNNs**. Implemented a self-supervised masked reconstruction task with LoRA fine-tuning, achieving State-of-the-Art performance on the DEAP dataset.
 
 ### Course Projects
 
