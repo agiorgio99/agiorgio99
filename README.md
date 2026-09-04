@@ -3,8 +3,7 @@
   <h1>Antonello Giorgio</h1>
   
   <p>
-    <strong>AI Engineer</strong> specializing in <strong>Sound and Music Computing</strong>.<br>
-    Focused on Artificial Intelligence, Machine Learning, and Audio Technologies.
+    <strong>AI Engineer</strong> specialised in <strong>Audio and Music</strong>.<br>
   </p>
   <p>
     <a href="https://www.linkedin.com/in/antonello-giorgio-165796228" target="_blank">
@@ -23,6 +22,13 @@
 </p>
 
 ## 🎵 Master in Sound & Music Computing (UPF-Barcelona)
+
+### 🏆 Master Thesis
+
+> **[ExpressiveALT (Automatic Lyrics Transcription for Expressive Singing)](https://github.com/agiorgio99/thesis-alt-expressive)**
+> Designed a pipeline evaluating ASR models on singing voices. Generated synthetic training data simulating vocal techniques (vibrato, falsetto) via WORLD-vocoder and fine-tuned Whisper, reducing the Word Error Rate from 15.8% to 11.3%.
+
+### Course Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
